@@ -1,0 +1,23 @@
+{
+  "name": "poc-docker-johnny-five",
+  "version": "1.0.0",
+  "description": "Proof of Concept - how to Dockerize your next IOT project with Johnny-five",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/POC-docker-johnny-five.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/POC-docker-johnny-five/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/POC-docker-johnny-five#readme",
+  "dependencies": {
+    "johnny-five": "2.1.0"
+  }
+}
